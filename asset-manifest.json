@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/occmedapp/static/css/main.a37588e4.css",
+    "main.js": "/occmedapp/static/js/main.b1ce698a.js",
+    "static/js/453.a8a1d5ef.chunk.js": "/occmedapp/static/js/453.a8a1d5ef.chunk.js",
+    "index.html": "/occmedapp/index.html",
+    "main.a37588e4.css.map": "/occmedapp/static/css/main.a37588e4.css.map",
+    "main.b1ce698a.js.map": "/occmedapp/static/js/main.b1ce698a.js.map",
+    "453.a8a1d5ef.chunk.js.map": "/occmedapp/static/js/453.a8a1d5ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37588e4.css",
+    "static/js/main.b1ce698a.js"
+  ]
+}
